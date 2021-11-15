@@ -1,0 +1,74 @@
+\\INFORMATICA201\studenti_Melon\5F info\databaseAuto\bin\Debug\databaseAuto.exe.config
+\\INFORMATICA201\studenti_Melon\5F info\databaseAuto\bin\Debug\databaseAuto.exe
+\\INFORMATICA201\studenti_Melon\5F info\databaseAuto\bin\Debug\databaseAuto.pdb
+\\INFORMATICA201\studenti_Melon\5F info\databaseAuto\obj\Debug\databaseAuto.csprojAssemblyReference.cache
+\\INFORMATICA201\studenti_Melon\5F info\databaseAuto\obj\Debug\databaseAuto.Auto.resources
+\\INFORMATICA201\studenti_Melon\5F info\databaseAuto\obj\Debug\databaseAuto.Properties.Resources.resources
+\\INFORMATICA201\studenti_Melon\5F info\databaseAuto\obj\Debug\databaseAuto.csproj.GenerateResource.cache
+\\INFORMATICA201\studenti_Melon\5F info\databaseAuto\obj\Debug\databaseAuto.csproj.CoreCompileInputs.cache
+\\INFORMATICA201\studenti_Melon\5F info\databaseAuto\obj\Debug\databaseAuto.exe
+\\INFORMATICA201\studenti_Melon\5F info\databaseAuto\obj\Debug\databaseAuto.pdb
+\\INFORMATICA201\studenti_Melon\5F info\databaseAuto\obj\Debug\databaseAuto.Inserimento.resources
+\\INFORMATICA201\studenti_Melon\5E info\databaseAuto\bin\Debug\databaseAuto.exe.config
+\\INFORMATICA201\studenti_Melon\5E info\databaseAuto\bin\Debug\databaseAuto.exe
+\\INFORMATICA201\studenti_Melon\5E info\databaseAuto\bin\Debug\databaseAuto.pdb
+\\INFORMATICA201\studenti_Melon\5E info\databaseAuto\obj\Debug\databaseAuto.csprojAssemblyReference.cache
+\\INFORMATICA201\studenti_Melon\5E info\databaseAuto\obj\Debug\databaseAuto.Auto.resources
+\\INFORMATICA201\studenti_Melon\5E info\databaseAuto\obj\Debug\databaseAuto.Inserimento.resources
+\\INFORMATICA201\studenti_Melon\5E info\databaseAuto\obj\Debug\databaseAuto.Properties.Resources.resources
+\\INFORMATICA201\studenti_Melon\5E info\databaseAuto\obj\Debug\databaseAuto.ViewList.resources
+\\INFORMATICA201\studenti_Melon\5E info\databaseAuto\obj\Debug\databaseAuto.csproj.GenerateResource.cache
+\\INFORMATICA201\studenti_Melon\5E info\databaseAuto\obj\Debug\databaseAuto.csproj.CoreCompileInputs.cache
+\\INFORMATICA201\studenti_Melon\5E info\databaseAuto\obj\Debug\databaseAuto.exe
+\\INFORMATICA201\studenti_Melon\5E info\databaseAuto\obj\Debug\databaseAuto.pdb
+E:\studenti\studenti_Melon\5E info\databaseAuto\bin\Debug\databaseAuto.exe.config
+E:\studenti\studenti_Melon\5E info\databaseAuto\bin\Debug\databaseAuto.exe
+E:\studenti\studenti_Melon\5E info\databaseAuto\bin\Debug\databaseAuto.pdb
+E:\studenti\studenti_Melon\5E info\databaseAuto\obj\Debug\databaseAuto.csprojAssemblyReference.cache
+E:\studenti\studenti_Melon\5E info\databaseAuto\obj\Debug\databaseAuto.Auto.resources
+E:\studenti\studenti_Melon\5E info\databaseAuto\obj\Debug\databaseAuto.Inserimento.resources
+E:\studenti\studenti_Melon\5E info\databaseAuto\obj\Debug\databaseAuto.Properties.Resources.resources
+E:\studenti\studenti_Melon\5E info\databaseAuto\obj\Debug\databaseAuto.ViewList.resources
+E:\studenti\studenti_Melon\5E info\databaseAuto\obj\Debug\databaseAuto.csproj.GenerateResource.cache
+E:\studenti\studenti_Melon\5E info\databaseAuto\obj\Debug\databaseAuto.csproj.CoreCompileInputs.cache
+E:\studenti\studenti_Melon\5E info\databaseAuto\obj\Debug\databaseAuto.exe
+E:\studenti\studenti_Melon\5E info\databaseAuto\obj\Debug\databaseAuto.pdb
+E:\studenti\studenti_Melon\5E info\databaseAuto\obj\Debug\databaseAuto.Tabella.resources
+E:\studenti\studenti_Melon\5E info\databaseAuto\obj\Debug\databaseAuto.Dtable.resources
+\\INFORMATICA201\studenti_Melon\5E info\databaseAuto\obj\Debug\databaseAuto.Dtable.resources
+\\INFORMATICA201\studenti_Melon\5E info\databaseAuto\obj\Debug\databaseAuto.Tabella.resources
+\\INFORMATICA201\studenti_Melon\5E info\databaseAuto\obj\Debug\databaseAuto.Inserisci_modifica.resources
+C:\Users\Studente\Desktop\databaseAuto\obj\Debug\databaseAuto.csproj.AssemblyReference.cache
+C:\Users\Studente\Desktop\databaseAuto\obj\Debug\databaseAuto.Dtable.resources
+C:\Users\Studente\Desktop\databaseAuto\obj\Debug\databaseAuto.Auto.resources
+C:\Users\Studente\Desktop\databaseAuto\obj\Debug\databaseAuto.Form2.resources
+C:\Users\Studente\Desktop\databaseAuto\obj\Debug\databaseAuto.Inserimento.resources
+C:\Users\Studente\Desktop\databaseAuto\obj\Debug\databaseAuto.Properties.Resources.resources
+C:\Users\Studente\Desktop\databaseAuto\obj\Debug\databaseAuto.Tabella.resources
+C:\Users\Studente\Desktop\databaseAuto\obj\Debug\databaseAuto.ViewList.resources
+C:\Users\Studente\Desktop\databaseAuto\obj\Debug\databaseAuto.csproj.GenerateResource.cache
+C:\Users\Studente\Desktop\databaseAuto\obj\Debug\databaseAuto.csproj.CoreCompileInputs.cache
+C:\Users\Studente\Desktop\databaseAuto\obj\Debug\databaseAuto.exe
+C:\Users\Studente\Desktop\databaseAuto\obj\Debug\databaseAuto.pdb
+C:\Users\Studente\Desktop\databaseAuto\bin\Debug\databaseAuto.exe.config
+C:\Users\Studente\Desktop\databaseAuto\bin\Debug\databaseAuto.exe
+C:\Users\Studente\Desktop\databaseAuto\bin\Debug\databaseAuto.pdb
+C:\Users\Studente\Desktop\databaseAuto\obj\Debug\databaseAuto.Inserisci_modifica.resources
+D:\Programmi\Programmi seri\databaseAuto\databaseAuto\bin\Debug\databaseAuto.exe.config
+D:\Programmi\Programmi seri\databaseAuto\databaseAuto\bin\Debug\databaseAuto.exe
+D:\Programmi\Programmi seri\databaseAuto\databaseAuto\bin\Debug\databaseAuto.pdb
+D:\Programmi\Programmi seri\databaseAuto\databaseAuto\obj\Debug\databaseAuto.csprojAssemblyReference.cache
+D:\Programmi\Programmi seri\databaseAuto\databaseAuto\obj\Debug\databaseAuto.Dtable.resources
+D:\Programmi\Programmi seri\databaseAuto\databaseAuto\obj\Debug\databaseAuto.Auto.resources
+D:\Programmi\Programmi seri\databaseAuto\databaseAuto\obj\Debug\databaseAuto.Form2.resources
+D:\Programmi\Programmi seri\databaseAuto\databaseAuto\obj\Debug\databaseAuto.Inserimento.resources
+D:\Programmi\Programmi seri\databaseAuto\databaseAuto\obj\Debug\databaseAuto.Inserisci_modifica.resources
+D:\Programmi\Programmi seri\databaseAuto\databaseAuto\obj\Debug\databaseAuto.Properties.Resources.resources
+D:\Programmi\Programmi seri\databaseAuto\databaseAuto\obj\Debug\databaseAuto.Tabella.resources
+D:\Programmi\Programmi seri\databaseAuto\databaseAuto\obj\Debug\databaseAuto.ViewList.resources
+D:\Programmi\Programmi seri\databaseAuto\databaseAuto\obj\Debug\databaseAuto.csproj.GenerateResource.cache
+D:\Programmi\Programmi seri\databaseAuto\databaseAuto\obj\Debug\databaseAuto.exe
+D:\Programmi\Programmi seri\databaseAuto\databaseAuto\obj\Debug\databaseAuto.pdb
+D:\Programmi\Programmi seri\databaseAuto\databaseAuto\obj\Debug\databaseAuto.Cancella.resources
+D:\Programmi\Programmi seri\databaseAuto\databaseAuto\obj\Debug\databaseAuto.Controlla.resources
+D:\Programmi\Programmi seri\databaseAuto\databaseAuto\obj\Debug\databaseAuto.Trova.resources
