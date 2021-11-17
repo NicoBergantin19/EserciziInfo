@@ -47,7 +47,7 @@ namespace databaseAuto
 
                 if (cont > 0)
                 {
-                    MessageBox.Show("Sono state trovati " + cont + " elementi con i valori inseriti", "", MessageBoxButtons.OK);
+                    MessageBox.Show("Sono stati trovati " + cont + " elementi con i valori inseriti", "", MessageBoxButtons.OK);
                 }
                 else
                 {
