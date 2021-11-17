@@ -1,0 +1,10 @@
+E:\studenti\studenti_Melon\5E info\oldb\obj\Debug\oldb.csprojAssemblyReference.cache
+E:\studenti\studenti_Melon\5E info\oldb\obj\Debug\oldb.Form1.resources
+E:\studenti\studenti_Melon\5E info\oldb\obj\Debug\oldb.Properties.Resources.resources
+E:\studenti\studenti_Melon\5E info\oldb\obj\Debug\oldb.csproj.GenerateResource.cache
+E:\studenti\studenti_Melon\5E info\oldb\obj\Debug\oldb.csproj.CoreCompileInputs.cache
+E:\studenti\studenti_Melon\5E info\oldb\bin\Debug\oldb.exe.config
+E:\studenti\studenti_Melon\5E info\oldb\bin\Debug\oldb.exe
+E:\studenti\studenti_Melon\5E info\oldb\bin\Debug\oldb.pdb
+E:\studenti\studenti_Melon\5E info\oldb\obj\Debug\oldb.exe
+E:\studenti\studenti_Melon\5E info\oldb\obj\Debug\oldb.pdb
