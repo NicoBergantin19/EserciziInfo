@@ -1,0 +1,10 @@
+E:\5E Informatica\AutoAccess\bin\Debug\AutoAccess.exe.config
+E:\5E Informatica\AutoAccess\bin\Debug\AutoAccess.exe
+E:\5E Informatica\AutoAccess\bin\Debug\AutoAccess.pdb
+E:\5E Informatica\AutoAccess\obj\Debug\AutoAccess.csproj.AssemblyReference.cache
+E:\5E Informatica\AutoAccess\obj\Debug\AutoAccess.Form1.resources
+E:\5E Informatica\AutoAccess\obj\Debug\AutoAccess.Properties.Resources.resources
+E:\5E Informatica\AutoAccess\obj\Debug\AutoAccess.csproj.GenerateResource.cache
+E:\5E Informatica\AutoAccess\obj\Debug\AutoAccess.csproj.CoreCompileInputs.cache
+E:\5E Informatica\AutoAccess\obj\Debug\AutoAccess.exe
+E:\5E Informatica\AutoAccess\obj\Debug\AutoAccess.pdb
