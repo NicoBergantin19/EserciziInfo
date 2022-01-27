@@ -1,0 +1,10 @@
+E:\studenti_melon_21_22\5E\DataAdapter\DataAdapter\DataAdapter\bin\Debug\DataAdapter.exe.config
+E:\studenti_melon_21_22\5E\DataAdapter\DataAdapter\DataAdapter\bin\Debug\DataAdapter.exe
+E:\studenti_melon_21_22\5E\DataAdapter\DataAdapter\DataAdapter\bin\Debug\DataAdapter.pdb
+E:\studenti_melon_21_22\5E\DataAdapter\DataAdapter\DataAdapter\obj\Debug\DataAdapter.csproj.AssemblyReference.cache
+E:\studenti_melon_21_22\5E\DataAdapter\DataAdapter\DataAdapter\obj\Debug\DataAdapter.Form1.resources
+E:\studenti_melon_21_22\5E\DataAdapter\DataAdapter\DataAdapter\obj\Debug\DataAdapter.Properties.Resources.resources
+E:\studenti_melon_21_22\5E\DataAdapter\DataAdapter\DataAdapter\obj\Debug\DataAdapter.csproj.GenerateResource.cache
+E:\studenti_melon_21_22\5E\DataAdapter\DataAdapter\DataAdapter\obj\Debug\DataAdapter.csproj.CoreCompileInputs.cache
+E:\studenti_melon_21_22\5E\DataAdapter\DataAdapter\DataAdapter\obj\Debug\DataAdapter.exe
+E:\studenti_melon_21_22\5E\DataAdapter\DataAdapter\DataAdapter\obj\Debug\DataAdapter.pdb
