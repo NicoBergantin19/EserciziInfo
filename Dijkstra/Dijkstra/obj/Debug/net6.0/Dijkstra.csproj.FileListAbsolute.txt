@@ -1,0 +1,15 @@
+E:\5E 21_22\C#\Dijkstra\Dijkstra\bin\Debug\net6.0\Dijkstra.exe
+E:\5E 21_22\C#\Dijkstra\Dijkstra\bin\Debug\net6.0\Dijkstra.deps.json
+E:\5E 21_22\C#\Dijkstra\Dijkstra\bin\Debug\net6.0\Dijkstra.runtimeconfig.json
+E:\5E 21_22\C#\Dijkstra\Dijkstra\bin\Debug\net6.0\Dijkstra.dll
+E:\5E 21_22\C#\Dijkstra\Dijkstra\bin\Debug\net6.0\ref\Dijkstra.dll
+E:\5E 21_22\C#\Dijkstra\Dijkstra\bin\Debug\net6.0\Dijkstra.pdb
+E:\5E 21_22\C#\Dijkstra\Dijkstra\obj\Debug\net6.0\Dijkstra.csproj.AssemblyReference.cache
+E:\5E 21_22\C#\Dijkstra\Dijkstra\obj\Debug\net6.0\Dijkstra.GeneratedMSBuildEditorConfig.editorconfig
+E:\5E 21_22\C#\Dijkstra\Dijkstra\obj\Debug\net6.0\Dijkstra.AssemblyInfoInputs.cache
+E:\5E 21_22\C#\Dijkstra\Dijkstra\obj\Debug\net6.0\Dijkstra.AssemblyInfo.cs
+E:\5E 21_22\C#\Dijkstra\Dijkstra\obj\Debug\net6.0\Dijkstra.csproj.CoreCompileInputs.cache
+E:\5E 21_22\C#\Dijkstra\Dijkstra\obj\Debug\net6.0\Dijkstra.dll
+E:\5E 21_22\C#\Dijkstra\Dijkstra\obj\Debug\net6.0\ref\Dijkstra.dll
+E:\5E 21_22\C#\Dijkstra\Dijkstra\obj\Debug\net6.0\Dijkstra.pdb
+E:\5E 21_22\C#\Dijkstra\Dijkstra\obj\Debug\net6.0\Dijkstra.genruntimeconfig.cache
