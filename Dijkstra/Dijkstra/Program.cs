@@ -69,8 +69,8 @@ namespace DikstraClasse5E
             }
 
             //Stampa tutti i percorsi migliori 
-            Console.WriteLine("\nPERCORSI MIGLIORI");
-
+            Console.WriteLine("\nPERCORSI MIGLIORI\nNODO DI PARTENZA          DISTANZA MINIMA DAL NODO 0");
+            grafo.CalcoloPercorsoMigliore();
 
 
             Console.ReadKey();
@@ -226,7 +226,6 @@ namespace DikstraClasse5E
         }
         public bool AddArco(int key1, int key2, int costo)
         {
-
             Nodo n1;
             Nodo n2;
             n1 = nodi.Find(n => n.Key == key1);
@@ -261,14 +260,23 @@ namespace DikstraClasse5E
             {
                 vn[i++, 0] = n.Key;
                 //vn[i, 1] = 1;
-
             }
             return vn;
         }
 
         public void CalcoloPercorsoMigliore()
         {
+            int minimo;
+            bool visitato;
+            for (int i = 0; i < Nodi.Count; i++)
+            {
+                if (Nodi[i].Key == 0)
+                {
+                    visitato = true;
+                    Console.WriteLine($"      {i}                                  {0}    ");
+                }
 
+            }
         }
     }
     struct StrArco

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "aa0f32e0-e456-40ca-b2f3-22dee85d6b4b": {
+      "ProjectGuid": "aa0f32e0-e456-40ca-b2f3-22dee85d6b4b",
+      "DisplayName": "Dijkstra",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

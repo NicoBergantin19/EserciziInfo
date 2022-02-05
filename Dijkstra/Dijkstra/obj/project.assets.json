@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\sistemi\\.nuget\\packages\\": {}
+    "C:\\Users\\nicob\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\5E 21_22\\C#\\Dijkstra\\Dijkstra\\Dijkstra.csproj",
+      "projectUniqueName": "C:\\Informatica\\C#\\EserciziInfo\\Dijkstra\\Dijkstra\\Dijkstra.csproj",
       "projectName": "Dijkstra",
-      "projectPath": "E:\\5E 21_22\\C#\\Dijkstra\\Dijkstra\\Dijkstra.csproj",
-      "packagesPath": "C:\\Users\\sistemi\\.nuget\\packages\\",
-      "outputPath": "E:\\5E 21_22\\C#\\Dijkstra\\Dijkstra\\obj\\",
+      "projectPath": "C:\\Informatica\\C#\\EserciziInfo\\Dijkstra\\Dijkstra\\Dijkstra.csproj",
+      "packagesPath": "C:\\Users\\nicob\\.nuget\\packages\\",
+      "outputPath": "C:\\Informatica\\C#\\EserciziInfo\\Dijkstra\\Dijkstra\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\sistemi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nicob\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

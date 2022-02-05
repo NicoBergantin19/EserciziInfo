@@ -13,3 +13,18 @@ E:\5E 21_22\C#\Dijkstra\Dijkstra\obj\Debug\net6.0\Dijkstra.dll
 E:\5E 21_22\C#\Dijkstra\Dijkstra\obj\Debug\net6.0\ref\Dijkstra.dll
 E:\5E 21_22\C#\Dijkstra\Dijkstra\obj\Debug\net6.0\Dijkstra.pdb
 E:\5E 21_22\C#\Dijkstra\Dijkstra\obj\Debug\net6.0\Dijkstra.genruntimeconfig.cache
+C:\Informatica\C#\EserciziInfo\Dijkstra\Dijkstra\bin\Debug\net6.0\Dijkstra.exe
+C:\Informatica\C#\EserciziInfo\Dijkstra\Dijkstra\bin\Debug\net6.0\Dijkstra.deps.json
+C:\Informatica\C#\EserciziInfo\Dijkstra\Dijkstra\bin\Debug\net6.0\Dijkstra.runtimeconfig.json
+C:\Informatica\C#\EserciziInfo\Dijkstra\Dijkstra\bin\Debug\net6.0\Dijkstra.dll
+C:\Informatica\C#\EserciziInfo\Dijkstra\Dijkstra\bin\Debug\net6.0\ref\Dijkstra.dll
+C:\Informatica\C#\EserciziInfo\Dijkstra\Dijkstra\bin\Debug\net6.0\Dijkstra.pdb
+C:\Informatica\C#\EserciziInfo\Dijkstra\Dijkstra\obj\Debug\net6.0\Dijkstra.csproj.AssemblyReference.cache
+C:\Informatica\C#\EserciziInfo\Dijkstra\Dijkstra\obj\Debug\net6.0\Dijkstra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Informatica\C#\EserciziInfo\Dijkstra\Dijkstra\obj\Debug\net6.0\Dijkstra.AssemblyInfoInputs.cache
+C:\Informatica\C#\EserciziInfo\Dijkstra\Dijkstra\obj\Debug\net6.0\Dijkstra.AssemblyInfo.cs
+C:\Informatica\C#\EserciziInfo\Dijkstra\Dijkstra\obj\Debug\net6.0\Dijkstra.csproj.CoreCompileInputs.cache
+C:\Informatica\C#\EserciziInfo\Dijkstra\Dijkstra\obj\Debug\net6.0\Dijkstra.dll
+C:\Informatica\C#\EserciziInfo\Dijkstra\Dijkstra\obj\Debug\net6.0\ref\Dijkstra.dll
+C:\Informatica\C#\EserciziInfo\Dijkstra\Dijkstra\obj\Debug\net6.0\Dijkstra.pdb
+C:\Informatica\C#\EserciziInfo\Dijkstra\Dijkstra\obj\Debug\net6.0\Dijkstra.genruntimeconfig.cache
