@@ -1,0 +1,20 @@
+E:\studenti_melon_21_22\5E\FillSchema\FillSchema\bin\Debug\FillSchema.exe.config
+E:\studenti_melon_21_22\5E\FillSchema\FillSchema\bin\Debug\FillSchema.exe
+E:\studenti_melon_21_22\5E\FillSchema\FillSchema\bin\Debug\FillSchema.pdb
+E:\studenti_melon_21_22\5E\FillSchema\FillSchema\obj\Debug\FillSchema.csproj.AssemblyReference.cache
+E:\studenti_melon_21_22\5E\FillSchema\FillSchema\obj\Debug\FillSchema.Form1.resources
+E:\studenti_melon_21_22\5E\FillSchema\FillSchema\obj\Debug\FillSchema.Properties.Resources.resources
+E:\studenti_melon_21_22\5E\FillSchema\FillSchema\obj\Debug\FillSchema.csproj.GenerateResource.cache
+E:\studenti_melon_21_22\5E\FillSchema\FillSchema\obj\Debug\FillSchema.csproj.CoreCompileInputs.cache
+E:\studenti_melon_21_22\5E\FillSchema\FillSchema\obj\Debug\FillSchema.exe
+E:\studenti_melon_21_22\5E\FillSchema\FillSchema\obj\Debug\FillSchema.pdb
+E:\5E Informatica\FillSchema\FillSchema\bin\Debug\FillSchema.exe.config
+E:\5E Informatica\FillSchema\FillSchema\bin\Debug\FillSchema.exe
+E:\5E Informatica\FillSchema\FillSchema\bin\Debug\FillSchema.pdb
+E:\5E Informatica\FillSchema\FillSchema\obj\Debug\FillSchema.csproj.AssemblyReference.cache
+E:\5E Informatica\FillSchema\FillSchema\obj\Debug\FillSchema.Form1.resources
+E:\5E Informatica\FillSchema\FillSchema\obj\Debug\FillSchema.Properties.Resources.resources
+E:\5E Informatica\FillSchema\FillSchema\obj\Debug\FillSchema.csproj.GenerateResource.cache
+E:\5E Informatica\FillSchema\FillSchema\obj\Debug\FillSchema.csproj.CoreCompileInputs.cache
+E:\5E Informatica\FillSchema\FillSchema\obj\Debug\FillSchema.exe
+E:\5E Informatica\FillSchema\FillSchema\obj\Debug\FillSchema.pdb
