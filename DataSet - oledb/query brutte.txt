@@ -34,3 +34,46 @@ SELECT ISP.SEDE,ISP.COGNOME, VEN.COGNOME,VEN.SEDE FROM AGENTI VEN INNER JOIN AGE
 SELECT COUNT(*) FROM AGENTI VEN INNER JOIN AGENTI ISP ON VEN.SEDE=ISP.SEDE WHERE VEN.COD_AGENTE>ISP.COD_AGENTE 
 
 
+SELECT NUM_ORDINE FROM VENDITE WHERE COD_CLIENT=(SELECT COD_CLIENT FROM CLIENTLA WHERE SOCIETA='Errebi') 
+
+SELECT NUM_ORDINE FROM VENDITE INNER JOIN CLIENTLA ON VENDITE.COD_CLIENT= CLIENTLA.COD_CLIENT WHERE SOCIETA='Errebi'
+
+quali sono gli agenti che hanno uno stipendio che è maggiore della media degli stipendi
+
+SELECT COGNOME,STIPENDIO FROM AGENTI WHERE STIPENDIO> (SELECT AVG(STIPENDIO) FROM AGENTI)
+
+quali sono gli articoli che hanno il prezzo uguale all'articolo con prezzo maggiore
+
+SELECT DISTINCT DESCRIZION FROM ARTICOLI WHERE PREZZO=(SELECT MAX(PREZZO) FROM ARTICOLI)
+
+visualizzare ordini che hanno come codice cliente errebi o come codice cliente zonin senza usare codice utente nè codice cliente
+
+SELECT NUM_ORDINE FROM VENDITE WHERE COD_CLIENT=(SELECT COD_CLIENT FROM CLIENTLA WHERE SOCIETA='Errebi') OR COD_AGENTE=(SELECT COD_AGENTE FROM AGENTI WHERE COGNOME='Zonin')
+
+query niterna ritorna una colonna di valori,
+estrarre informazioni sugli ordini dei clienti della provincia di Milano
+num ordine, codice cliente, data relativa ai clienti della provincia di Milano
+
+SELECT NUM_ORDINE, COD_CLIENT,DAT_ORDINE FROM VENDITE WHERE COD_CLIENT IN (SELECT COD_CLIENT FROM CLIENTLA WHERE CAP LIKE '20%')
+
+operatori any/all
+any:confronto effettuato con any risulta vero se vero per almeno uno dei valori
+ presenti all'interno di una colonna di valori
+se la condizione è soddisfatta per almeno un valore della query più interna 
+
+all: il confronto risulta vero se è vero per tutti i valori restituiti dalla colonna 
+
+visualizzare codice articolo dove il prezzo è maggiore almeno del prezzo di un certo articolo
+
+SELECT COD_ARTIC,PREZZO FROM ARTICOLI
+
+
+visualizzare informazioni venditori la cui provvigione è inferiore a quella di almeno uno dei venditori della sede di Milano
+
+SELECT COD_AGENTE FROM AGENTI WHERE PROVVIGION<ANY (SELECT PROVVIGION FROM AGENTI WHERE SEDE='MILANO')
+
+
+visualizzare informazioni relative ai venditori la cui provvigione è pià alta di qualsiasi provvigione di un agente di Milano
+agenti la cui provvigione> provvigione di quelli di Milano
+
+(SELECT PROVVIGION FROM AGENTI WHERE SEDE='MILANO)
