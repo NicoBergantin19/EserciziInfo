@@ -3,9 +3,6 @@ using System.Data;
 using System.Data.OleDb;
 using System.Windows.Forms;
 
-
-
-
 namespace DataAdapter
 {
     public partial class Form1 : Form
